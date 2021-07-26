@@ -20,7 +20,11 @@ The analysis should contain the following:
 
 **How is the district summary affected?**
 
-School District Summary Charts
+School District Summary Chart - Without 9th grade student Math and Reading scores from Thomas High Schools
+![image](https://user-images.githubusercontent.com/86085614/126941517-ccccc343-9197-4f0a-8dd6-bf7e51f9988c.png)
+
+
+
 
 
 
