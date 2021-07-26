@@ -20,13 +20,11 @@ The analysis should contain the following:
 
 **How is the district summary affected?**
 
-School District Summary Chart - Without 9th grade student Math and Reading scores from Thomas High Schools
+School District Summary Chart - With 9th grade student Math and Reading scores from Thomas High Schools
 ![image](https://user-images.githubusercontent.com/86085614/126941517-ccccc343-9197-4f0a-8dd6-bf7e51f9988c.png)
 
-
-
-
-
+School District Summary Chart - Without 9th grade student Math and Reading scores from Thomas High Schools
+![image](https://user-images.githubusercontent.com/86085614/126941679-569da48b-6819-42ba-9cb6-158f9770da88.png)
 
 Comparing the two chart above the average show the difference when the 9th grade student Math and Reading scores from Thomas High Schools were excluded from the District Summary.  Excluding the Thomas High Schools 9th grade students Reading and Math scores slightly affected by tenths of average scores in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing.  The overall slight decrease in averages do not change but it will affect the following summaries.
 
