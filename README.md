@@ -59,7 +59,24 @@ Spendings - With 9th grade student Math and Reading scores from Thomas High Scho
 
 c) Scores by school size : The scores by school size is also slightly affected by excluding the ninth graders’ math and reading scores from  Thomas High School
 
+Scores by school size - With 9th grade student Math and Reading scores from Thomas High Schools
+![image](https://user-images.githubusercontent.com/86085614/126943159-7973504c-4e0c-4b9f-b8f3-c355005d9b7a.png)
+
+
+Scores by school size - Without 9th grade student Math and Reading scores from Thomas High Schools
+![image](https://user-images.githubusercontent.com/86085614/126943254-cb0a1679-1737-4ba3-aa70-cd239d6a2e44.png)
+
+
 d) Scores by school type :  The scores by school type size is also slightly affected by excluding the ninth graders’ math and reading scores from  Thomas High School.
+
+Scores by school type - With 9th grade student Math and Reading scores from Thomas High Schools
+
+![image](https://user-images.githubusercontent.com/86085614/126943408-f754e00e-6b7a-462b-9853-8a62144120bf.png)
+
+Scores by school type - Without 9th grade student Math and Reading scores from Thomas High Schools
+
+![image](https://user-images.githubusercontent.com/86085614/126943328-bd2d657b-e3f0-42f5-bcde-77a78f0c8724.png)
+
 
 **Summary**: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
