@@ -71,7 +71,7 @@ d) Scores by school type :  The scores by school type size is also slightly affe
 
 Scores by school type - With 9th grade student Math and Reading scores from Thomas High Schools
 
-![image](https://user-images.githubusercontent.com/86085614/126943408-f754e00e-6b7a-462b-9853-8a62144120bf.png)
+![image](https://user-images.githubusercontent.com/86085614/126943627-9df5ff71-c184-4340-9eab-fad8f4c0f628.png)
 
 Scores by school type - Without 9th grade student Math and Reading scores from Thomas High Schools
 
