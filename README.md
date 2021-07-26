@@ -12,13 +12,28 @@ Check PyCitySchools_Challenge.ipynb file
 
 The analysis should contain the following:
 
-# Overview of the school district analysis: Explain the purpose of this analysis.
+### Overview of the school district analysis: Explain the purpose of this analysis.
 
-**Purpose**: The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
+**Purpose**: The purpose of this analysis is to find the evidence of academic dishonesty in the Student and School data given to Maria. The data relevant to ninth graders in Thomas High School, especially math and reading scores seems to be distorted. To find the evidence, Maria stated the requirements 1) replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact 2) repeat the school district analysis from Module 4 project 3) state any changes.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+**Results**: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+**How is the district summary affected?**
+
+School District Summary Charts With Math and Reading Scores not excluded 
+
+![image](https://user-images.githubusercontent.com/86085614/126940320-0a42af5c-e85a-45b2-b7da-862b67464d85.png)
+
+
+School District Summary Charts With Math and Reading Scores excluded 
+
+
+![image](https://user-images.githubusercontent.com/86085614/126940384-bfe3891a-777c-4166-b205-347ca6cde85e.png)
+
+
+Comparing the two chart above the average show the difference when the 9th grade student Math and Reading scores from Thomas High Schools were excluded from the District Summary.  Excluding the Thomas High Schools 9th grade students Reading and Math scores slightly affected by tenths of average scores in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing.  The overall slight decrease in averages do not change but it will affect the following summaries.
+
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
